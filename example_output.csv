@@ -1,0 +1,4 @@
+Type,Alias,DisplayName,Inactive,PrimarySmtpAddress,EmailAddresses
+Mailbox,jdoe,John Doe,False,jdoe@contoso.com,"jdoe@contoso.com,john.doe@contoso.com"
+Distribution Group,sales,Sales Team,N/A,sales@contoso.com,sales@contoso.com
+Mail Contact,,External Contact,N/A,external@external.com,external@external.com
